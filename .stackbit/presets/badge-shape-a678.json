@@ -1,0 +1,21 @@
+{
+    "model": "badge",
+    "srcType": "sanity",
+    "srcProjectId": "kswtdal0:production",
+    "presets": [
+        {
+            "label": "shape",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "shape"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "EXPAND",
+                "theme": "primary"
+            }
+        }
+    ]
+}
